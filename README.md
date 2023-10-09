@@ -62,9 +62,9 @@ start_time, hour, day, week, month, year, weekday
 ```test.ipynb``` -> a notebook to connect to postgres db and validate the data loaded.
 
 ## Environment 
-Python 3.6 or above
+Python 
 
-PostgresSQL 9.5 or above
+PostgresSQL 
 
 psycopg2 - PostgreSQL database adapter for Python
 
